@@ -31,3 +31,4 @@
 ![](2head_pink.png)
 - 이두는 투리드의 마스코트이다.
 - 포켓몬스터의 [두두](https://pokemon.fandom.com/ko/wiki/%EB%91%90%EB%91%90_\(%ED%8F%AC%EC%BC%93%EB%AA%AC\))를 모티브로 창작되었으며, 창작자는 [@ddome](https://www.instagram.com/ddome09876/)다.
+    - (news) ddome는 이두를 작품 소개 인스타에 올리지 않았다... 😞
